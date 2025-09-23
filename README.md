@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Amimul Ihsan Tamim</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFnaW80dTl1NzI2Y2ZtM2RoOXhqeXdhZHpwOGZiMDgxaGZpNWt4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXFnaW80dTl1NzI2Y2ZtM2RoOXhqeXdhZHpwOGZiMDgxaGZpNWt4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"> -->
 
 <br>
 
