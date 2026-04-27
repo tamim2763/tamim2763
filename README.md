@@ -15,35 +15,7 @@
 <br clear="both">
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
-  <a href="https://twitter.com/tamimihsan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="30" alt="Twitter"/>
-  </a>&nbsp;&nbsp;
-  
-  <a href="https://www.linkedin.com/in/ihsan-tamim-76574232a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;
-  
-  <a href="https://www.facebook.com/amimulihsan.tamim.75" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="30" alt="Facebook"/>
-  </a>&nbsp;&nbsp;
-  
-  <a href="https://www.instagram.com/ihsan_tamim/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30" alt="Instagram"/>
-  </a>&nbsp;&nbsp;
-  
-  <a href="https://hashnode.com/@tamim2763" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" width="40" height="30" alt="Hashnode"/>
-  </a>&nbsp;&nbsp;
-  
-  <a href="https://codeforces.com/profile/tamim2763" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40" height="30" alt="Codeforces"/>
-  </a>&nbsp;&nbsp;
-  
-  <a href="https://leetcode.com/tamim2763/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="30" alt="Leetcode"/>
-  </a>
-</p>
+<p align="left"><a href="https://twitter.com/tamimihsan" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="30" alt="Twitter"/></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ihsan-tamim-76574232a/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30" alt="LinkedIn"/></a>&nbsp;&nbsp;<a href="https://www.facebook.com/amimulihsan.tamim.75" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="30" alt="Facebook"/></a>&nbsp;&nbsp;<a href="https://www.instagram.com/ihsan_tamim/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30" alt="Instagram"/></a>&nbsp;&nbsp;<a href="https://hashnode.com/@tamim2763" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" width="40" height="30" alt="Hashnode"/></a>&nbsp;&nbsp;<a href="https://codeforces.com/profile/tamim2763" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40" height="30" alt="Codeforces"/></a>&nbsp;&nbsp;<a href="https://leetcode.com/tamim2763/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="30" alt="Leetcode"/></a></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
