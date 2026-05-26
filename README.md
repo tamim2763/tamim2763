@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/tamimihsan" target="blank"><img src="https://img.shields.io/twitter/follow/tamimihsan?logo=twitter&style=for-the-badge" alt="tamimihsan" /></a> </p>
 
-- 🌱 I'm currently learning **Blockchain**
+- 🌱 I'm currently learning **GO**
 
 - 💬 Ask me about **C++, Javascript**
 
