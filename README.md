@@ -52,4 +52,3 @@
 ---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamim2763&" alt="tamim2763" /></p>
-[![Boot.dev Build an AI Agent in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/22e00032-df14-4ae7-b0e6-30d742dc735d.jpeg?v=1784747540)](https://www.boot.dev/certificates/22e00032-df14-4ae7-b0e6-30d742dc735d)
